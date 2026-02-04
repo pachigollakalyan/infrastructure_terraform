@@ -174,7 +174,7 @@ Then verify in AWS Console that no resources remain to avoid unexpected charges.
 
 ---
 
-## 🎓 What You Learned
+## 🎓 Learned
 
 ✅ Infrastructure as Code with Terraform
 ✅ AWS ECS Fargate (serverless containers)
@@ -185,8 +185,4 @@ Then verify in AWS Console that no resources remain to avoid unexpected charges.
 
 ---
 
-## 🔄 Next Steps
 
-* Try deploying a different Docker image
-* Modify the security group to allow other ports
-* Move on to **Project 2: Automated Deployment Pipeline**
